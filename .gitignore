@@ -1,0 +1,4 @@
+__pycache__/
+data/
+slurm_output/
+model_weights/
